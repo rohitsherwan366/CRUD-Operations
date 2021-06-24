@@ -6,8 +6,11 @@
 
 ## Learnings
 Django CRUD Operation
+
 Design Django Form with Bootstrap and crispy forms
+
 Display DropDown in Django Form
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
@@ -61,18 +64,6 @@ Display DropDown in Django Form
         *  Incredibly versatile
         *  Easy to Integrate with Python Libraries/Functions
 
-## Features
-
-* #### Admin Module
-  
-    *  Enable and Disable Customer/Driver
-    *  Admin can have a access for complete dashboard activities
-    *  Admin can add/modify the Customer/Driver Details
-    *  Admin will receive notification for each activity
-    *  Admin can generate weekly/monthly report from activity dashboard
-    *  Admin can view total revenue w.r.t. Customer or Driver
-    *  Admin can modify fare structure
-    *  Admin can modify pickup locations
 
 
 
@@ -80,4 +71,3 @@ Display DropDown in Django Form
 ## Screenshots
 ![emp22](https://user-images.githubusercontent.com/39465843/123313584-46abf180-d547-11eb-904d-432271234aa8.png)
 ![emp1](https://user-images.githubusercontent.com/39465843/123313592-49a6e200-d547-11eb-93a1-f045a5bbd81a.png)
-![emp2232](https://user-images.githubusercontent.com/39465843/123313606-4d3a6900-d547-11eb-8300-6561c23c4af5.png)
