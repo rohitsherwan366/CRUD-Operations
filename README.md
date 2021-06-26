@@ -1,8 +1,6 @@
 # CRUD-Operations
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/saksham1991999/taxotaxi)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/saksham1991999/taxotaxi)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/saksham1991999/taxotaxi)](https://badges.pufler.dev)
-
 
 ## Learnings
 Django CRUD Operation
