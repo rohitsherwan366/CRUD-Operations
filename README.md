@@ -27,29 +27,6 @@ Display DropDown in Django Form
 * Python
 * Django
 
-
-### Installation
-
-
-
-* Backend
-
-    ```Python
-    pip install -r requirements.txt
-    python manage.py makemigrations
-    python manage.py migrate
-    ```
-
-    ```
-    
-[Back to Table of Contents](#table-of-contents)
-
-## Frontend
-
-* #### Django template language
-    Django’s template language is designed to strike a balance between power and ease. It’s designed to feel comfortable to those used to working with HTML. If you have any exposure to other text-based template languages, such as Smarty or Jinja2, you should feel right at home with Django’s templates.
-    
-
 ## Backend
 
 * #### Django 
